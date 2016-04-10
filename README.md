@@ -1,7 +1,6 @@
 # docker-flower
 
-Alpine docker image for [Celery
-Flower](https://flower.readthedocs.org/en/latest/).
+Alpine docker image for [Celery Flower](https://flower.readthedocs.org/en/latest/).
 
 ## Usage
 
